@@ -22,7 +22,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log('---------------------------------------------');
-    console.log('WUMP Bot - Lamot');
+    console.log('WUMP Bot - Lamot Zonaairdrop');
     console.log(`---------------------------------------------${colors.reset}\n`);
   },
   agent: (msg) => console.log(`${colors.white}${msg}${colors.reset}`)
